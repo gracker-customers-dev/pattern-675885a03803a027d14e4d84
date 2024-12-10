@@ -1,0 +1,55 @@
+projectName: How to use AI in cybersecurity marketing
+jsonFilePath: ./input.json
+baseUrl: https://www.gracker.ai
+portalHeading: Unlock AI-Driven Cybersecurity Marketing
+portalDescription: >-
+  GrackerAI boosts cybersecurity SaaS marketing with targeted traffic and
+  quality leads, using AI-driven content creation and programmatic SEO.
+portalTitle: Transform Your Cybersecurity Marketing with AI
+searchPlaceholder: Search for cybersecurity insights...
+useAlphabetsCategory: true
+homeLink: https://www.gracker.ai/
+logoLink: https://www.gracker.ai/
+ctaText: Get Started
+aboutLink: https://www.gracker.ai/about
+productsLink: https://www.gracker.ai/products
+logoImgUrl: https://www.gracker.ai/logo.png
+ctaLink: https://portal.gracker.ai/
+copyrightText: © 2023 Gracker. All rights reserved.
+faviconUrl: https://www.gracker.ai/favicon.ico
+googleTagManagerId: ''
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Twitter
+    url: https://twitter.com/grackerai
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/grackerai
+theme:
+  primaryColor: '#0073e6'
+  secondaryColor: '#005bb5'
+  backgroundColor: '#ffffff'
+  textColor: '#333333'
+  accentColor: '#ffcc00'
+fonts:
+  - family: Arial
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Helvetica
+    weights:
+      - 500
+      - 600
+      - 700
